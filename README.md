@@ -31,10 +31,12 @@
  <img width="572" height="481" alt="image" src="https://github.com/user-attachments/assets/e25c2362-45b7-45f2-a103-ab433e91d679" />
 
 
-3. 堆疊的使用示例
+3.堆疊的使用示例
+
 
 
 3-1 進制轉換
+
 <img width="870" height="832" alt="image" src="https://github.com/user-attachments/assets/67f3c2af-30b3-4a85-a3b9-90599f2bd44b" />
 
 說明：這是用 List 結構來實現的「棧」，同樣我們可以自己寫一個棧
