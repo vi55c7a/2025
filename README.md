@@ -28,22 +28,42 @@
 
 
 2. 利用 Python 的內置資料結構 List 實現堆疊全部操作
- <img width="572" height="481" alt="image" src="https://github.com/user-attachments/assets/e25c2362-45b7-45f2-a103-ab433e91d679" />
+<img width="545" height="739" alt="二" src="https://github.com/user-attachments/assets/8c61353a-9973-4927-92e9-8498f8405278" />
+
+輸出結果
+
+<img width="330" height="202" alt="二結" src="https://github.com/user-attachments/assets/0f44b504-5286-41a4-a3fc-fe1738f69be1" />
 
 
+      
 3.堆疊的使用示例
 
 
 
 3-1 進制轉換
 
-<img width="870" height="832" alt="image" src="https://github.com/user-attachments/assets/67f3c2af-30b3-4a85-a3b9-90599f2bd44b" />
+
+<img width="532" height="756" alt="三-1" src="https://github.com/user-attachments/assets/f90daab8-a4e5-4dc9-9906-a2ef9166ca65" />
+
+
+
+輸出結果
+
+<img width="1415" height="83" alt="三-1結" src="https://github.com/user-attachments/assets/0319da34-8887-4b00-8284-ad5794aa78ae" />
+
 
 說明：這是用 List 結構來實現的「棧」，同樣我們可以自己寫一個棧
 
 
 3-2 自己寫堆疊
-<img width="1043" height="781" alt="image" src="https://github.com/user-attachments/assets/9f46acd7-2bd8-451d-b2fe-817fa5b4b9a6" />
+
+<img width="465" height="611" alt="三-2" src="https://github.com/user-attachments/assets/402637bf-1ef5-4868-93af-bbed80c73164" />
+<img width="352" height="402" alt="三-2-" src="https://github.com/user-attachments/assets/812134ff-b477-4115-b188-fd21c6f41cf6" />
+
+
+輸出結果
+
+<img width="830" height="191" alt="三-2結" src="https://github.com/user-attachments/assets/2b247947-15bd-4982-9257-b19d010f59a7" />
 
 說明：
 
@@ -54,9 +74,15 @@
 
 3-3 程式碼—將數學表達式轉成前序式
 
-<img width="601" height="945" alt="image" src="https://github.com/user-attachments/assets/979d2c9f-4fd6-4b47-8a90-9ba62950e30c" />
+<img width="463" height="650" alt="三-3" src="https://github.com/user-attachments/assets/9d820a91-22ce-416c-83a1-7641578e6cea" />
 
-<img width="626" height="740" alt="image" src="https://github.com/user-attachments/assets/c44e2408-b4b3-45b3-8cc8-09dbd0678e94" />
+<img width="864" height="749" alt="三-3-" src="https://github.com/user-attachments/assets/17c2b42b-f683-4a15-ae28-c9dd5eb72068" />
+
+
+
+輸出結果
+
+<img width="783" height="72" alt="三-3結" src="https://github.com/user-attachments/assets/bc457ada-1b4f-4399-a4bf-a29e6a5e0989" />
 
 說明：
 
@@ -67,9 +93,14 @@
 
 3-4 程式碼—後序表達式（逆波蘭式）
 
-<img width="546" height="727" alt="image" src="https://github.com/user-attachments/assets/86cf1a5c-a496-4106-9c55-5ac6cbad2a93" />
+<img width="997" height="943" alt="三-4" src="https://github.com/user-attachments/assets/18be9101-1208-4c69-8f01-1925ff7a161e" />
 
-<img width="754" height="565" alt="image" src="https://github.com/user-attachments/assets/6accbc4e-69b7-4133-9e50-6833841ed76a" />
+<img width="539" height="826" alt="三-4-" src="https://github.com/user-attachments/assets/271d8db4-f449-4c09-b199-16d2ed7183c9" />
+
+
+輸出結果
+
+<img width="699" height="203" alt="三-4結" src="https://github.com/user-attachments/assets/1919ce58-fe94-4a19-acbf-555e3fc1d98b" />
 
 
 說明：
